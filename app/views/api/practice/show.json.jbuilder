@@ -1,0 +1,1 @@
+json.Phrase @phrase.upcase
